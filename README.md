@@ -7,9 +7,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="350" alt="c# logo download icon" /></a></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".Net logo" title=".Net" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
