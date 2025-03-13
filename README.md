@@ -68,28 +68,16 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trietdang5599-email" />
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
-  
-    <strong>☕ </strong>
-  </a>
-</p>
-<p><strong>☕ </strong></p>
-<p><strong>☕ </strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: 
+    <a href="https://www.facebook.com/trietdang5599" target="_blank">https://www.facebook.com/trietdang5599</a>
+  </strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trietdang5599" target="_blank">https://www.facebook.com/trietdang5599</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trietdang05051999@gmail.com" target="_top">trietdang05051999@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: 
+    <a href="mailto:trietdang05051999@gmail.com" target="_top">trietdang05051999@gmail.com</a>
+  </strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trietdang5599-scaled.jpeg" width="1200" alt="trietdang05051999" />
-</a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
