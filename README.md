@@ -11,16 +11,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=C Sharp&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
@@ -34,8 +24,6 @@
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -67,11 +55,8 @@
   <a href="https://trietdang5599.com" target="blank">
     <img width="90" height="90" src="images/logo-trietdang5599-transparent-bg-192x192.png" alt="trietdang5599-blog" />
   </a>
-  <a href="https://facebook.com/trietdang5599" target="blank">
+  <a href="https://www.facebook.com/trietdang55/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trietdang5599-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/trietdang5599Official" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trietdang5599-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/trietdang5599" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trietdang5599-linkedin" />
@@ -79,7 +64,7 @@
   <a href="https://instagram.com/trietdang5599" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trietdang5599-instagram" />
   </a>
-  <a href="mailto:trietdang5599.official@gmail.com" target="top">
+  <a href="mailto:trietdang05051999@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trietdang5599-email" />
   </a>
 </div>
